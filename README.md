@@ -9,6 +9,7 @@ INSTRUCTIONS to view the project correctly:
 1) Download the Github File as a .zip and open the Mains Detector.asc using LTspice Software[Download Link--> https://ltspice.analog.com/software/LTspiceXVII.exe
 
 2) After opening--
+
 a. The circuit can be seen along with clear details and components.
 
 b. You can directly see the circuit simulation in the Simulation Results.png file that I have added.
