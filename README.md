@@ -10,6 +10,7 @@ INSTRUCTIONS to view the project correctly:
 
 2) After opening--
 a. The circuit can be seen along with clear details and components.
+
 b. You can directly see the circuit simulation in the Simulation Results.png file that I have added.
 OR
 b. If you want to simulate it yourself, follow the instructions you'll see written below the circuit for successful simulations.
