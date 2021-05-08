@@ -4,3 +4,14 @@ In order to avoid injury, prior to starting work on an electrical box such as an
 Usually, we use the voltage tester to detect if there is any voltage flowing through a live wire. But a situation may occur when you cannot test the live wire voltage using normal tester cause, there may be danger near live wire or maybe you cannot reach at that point to measure the voltage because of wired voltage tester. So, for such situations we can use a Mains Voltage Detector.
 
 As the name suggests, this circuit detects if there is voltage flow or not through the live wire without any contact. 
+
+INSTRUCTIONS to view the project correctly:
+1) Open the Buck Converter.asc File using LTspice Software[Software Download Link--> https://ltspice.analog.com/software/LTspiceXVII.exe
+
+2) After opening--
+a. The circuit can be seen along with clear details and components.
+b. You can directly see the circuit simulation in the Simulation Results.png file that I have added.
+OR
+b. If you want to simulate it yourself, follow the instructions you'll see written below the circuit for successful simulations.
+
+3) For your reference & as a screenshot proof that the circuit is correct & working, I have added the Simulation Results.png screenshot to show the required successful simualations.
