@@ -12,8 +12,8 @@ INSTRUCTIONS to view the project correctly:
 
 a. The circuit can be seen along with clear details and components.
 
-b. You can directly see the circuit simulation in the Simulation Results.png file that I have added.
+b. You can directly see the circuit simulation in the Simulation Results.jpg file that I have added.
 OR
-b. If you want to simulate it yourself, follow the instructions you'll see written below the circuit for successful simulations.
+b. If you want to simulate it yourself, follow the instructions_MustRead.txt file for successful simulations.
 
-3) For your reference & as a screenshot proof that the circuit is correct & working, I have added the Simulation Results.png screenshot to show the required successful simualations.
+3) For your reference and as a screenshot proof that the circuit is correct & working, I have added the Simulation Results.jpg screenshot to show the required successful simualations.
