@@ -1,4 +1,4 @@
-NOTE: This is a simualtion based Electronics Project, and unlike CSE projects only those with prior knowledge of the same might be able to sim
+NOTE: This is a simualtion based Electronics Project, used to immitate a real world hardware implementation of the same digitally.
 When electricity is not properly handled, it results in electrical shocks with a nasty experience; which is why safety must come first when working with electricity or electrical devices. 
 
 In order to avoid injury, prior to starting work on an electrical box such as an AC mains switch-board or a power supply, one must first verify there is no AC voltage. It is really hard to completely isolate a device from the main supply; so, how can one be sure that there's no voltage remaining? This is where the Mains Detector comes into play.
