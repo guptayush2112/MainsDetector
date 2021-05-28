@@ -1,0 +1,28 @@
+Kindly follow the instructions so as to run a successful simulation of the circuit.
+
+1) Open the Mains Detector.asc file
+
+2) Right Click on the anywhere on the screen and select Run 
+[Now you'll see the screen is divided into two sections: the output graph and circuit diagram]
+
+3) On the Graph :
+a) Right click then select Add Plot Plane
+b) Repeat the process till you divide the graph into three plot planes
+
+4) Now right-click in the middle of 1st plane, then select add traces, then select  I(R1) [Current through resistor R1 i.e. current after 1st Stage Amplification]
+
+[Similar process for other two planes]
+
+5) Now right-click in the middle of 2nd plane, then select add traces, then select I(R2)[Current through resistor R2 i.e. current after 2nd Stage Amplification]
+
+6) Now right-click in the middle of 3rd plane, then select add traces, then select I(D1)[Current after 3rd Stage Amplification i.e. this is the current through the LED (our indicator) which is what we wanted to see]
+
+For a circuit LED, the current required for it to glow should be in the range 10mA-25 mA and indeed our I(D1) is in between that range.
+
+Justification for 1nA Current Source
+
+Now lets think for once that we are in the real world and there this circuit doesn't need the 1nA current source since that open ended copper wire [Labelled as NearMainsWire] can automatically detect a negligible amount of current whence brought near a mains wire but since this is a simulation based circuit i.e. this circuit is being viewed digitally and not physically, it won't be possible for us to just take the device we're viewing this circuit upon (let's say our laptop) and go near a mains wire and expect our LED to glow. 
+That is of course absurd and impossible. 
+But since we are aware that in real life situations while detecting the mains wire, the current entering the base of Q3 transistor will be around this value of 1nA we manually take it as our current source and thus justify our assumption of 1nA current source.
+
+7) Congratulations, you have now successfully simulated a Mains Detector Circuit 
