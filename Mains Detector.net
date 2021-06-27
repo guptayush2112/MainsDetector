@@ -1,0 +1,20 @@
+* D:\SRM & Docs\SEM 4\AEC Experiments\Mini Project\Mains Detector.asc
+Q1 N006 N007 0 0 BC547B
+Q2 N004 N005 N007 0 BC547B
+Q3 N003 NearMainsWire N005 0 BC547B
+D1 N001 N002 D
+R1 N001 N003 1Meg
+V1 N001 0 6
+R2 N001 N004 100K
+R3 N002 N006 220
+I1 0 NearMainsWire 1nA
+.model D D
+.lib C:\Users\Gupta Ji\Documents\LTspiceXVII\lib\cmp\standard.dio
+.model NPN NPN
+.model PNP PNP
+.lib C:\Users\Gupta Ji\Documents\LTspiceXVII\lib\cmp\standard.bjt
+.tran 5ms
+* MAINS DETECTOR
+* Designed by\nAyush Gupta
+.backanno
+.end
