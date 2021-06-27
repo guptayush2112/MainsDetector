@@ -15,4 +15,4 @@ INSTRUCTIONS to view the project correctly:
 
   b. Kindly follow the instructions_MustRead.txt file for successful simulations. You can also directly see the circuit simulation in the Simulation Results.jpg file that I have added.
 
-3) For your reference and as a screenshot proof that the circuit is correct & working, I have added the Simulation Results.jpg screenshot to show the required successful simualations.
+3) For your reference and as a screenshot proof that the circuit is correct & working, I have added the Simulation Results.jpg screenshot to show the required successful simulations.
