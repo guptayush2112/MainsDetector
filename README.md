@@ -11,7 +11,7 @@ INSTRUCTIONS to view the project correctly:
 
 3) After opening circuit--
 
-a. The circuit can be seen along with clear details and components.
+a. The circuit can be seen along with clear details and component specifications.
 
 b. Kindly follow the instructions_MustRead.txt file for successful simulations. You can also directly see the circuit simulation in the Simulation Results.jpg file that I have added.
 
