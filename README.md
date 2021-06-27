@@ -1,4 +1,4 @@
-NOTE: This is a simualtion based Electronics Project used to immitate a real world hardware implementation of the same digitally.
+NOTE: This is a simualtion based Electronics Project used to immitate a real world hardware implementation of the same.
 
 When electricity is not properly handled, it results in electrical shocks with a nasty experience; which is why safety must come first when working with electricity or electrical devices. 
 
