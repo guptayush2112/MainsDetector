@@ -1,4 +1,4 @@
-NOTE: This is a simualtion based Electronics Project used to immitate a real world hardware implementation of the same.
+NOTE: This is a simulation based Electronics Project used to immitate a real world hardware implementation of the same.
 
 As the name suggests, this circuit detects if there is voltage flow or not through the mains wire without any contact with it. 
 
