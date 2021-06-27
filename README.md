@@ -1,6 +1,6 @@
 NOTE: This is a simulation based Electronics Project used to immitate a real world hardware implementation of the same.
 
-As the name suggests, this circuit detects if there is voltage flow or not through the mains wire without any contact with it. 
+As the name suggests, this circuit detects if there is voltage flow or not through the mains wire without making any physical contact with it. 
 
 INSTRUCTIONS to view the project correctly:
 1) Download the Github Repository as a .zip file 
